@@ -9,5 +9,13 @@
 #  . ~/.my_bashrc
 # fi
 
+# ALIAS
+alias 'cd..'='cd ..'
+alias '..'='cd ..'
+alias '...'='cd ../..'
+alias '....'='cd ../../..'
+alias '.....'='cd ../../../..'
+
+
 # DESENVOLUPAMENT
 alias cgem='cd ~/Dropbox/DESENVOLUPAMENT/Gems'
