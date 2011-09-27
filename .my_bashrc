@@ -1,0 +1,13 @@
+# .my_bashrc
+# Marcel Massana 27/11/2011
+#
+# My Bash convenience setup 
+#
+# Put this file at your home directory and add these lines at the bottom of .bashrc
+# 
+# if [ -e ~/.my_bashrc ]; then
+#  . ~/.my_bashrc
+# fi
+
+# DESENVOLUPAMENT
+alias cgem='cd ~/Dropbox/DESENVOLUPAMENT/Gems'
